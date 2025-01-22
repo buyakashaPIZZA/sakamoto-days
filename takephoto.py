@@ -18,7 +18,7 @@ page_to_scrape = webdriver.Chrome(service=browser_driver, options=chrome_options
 
 try:
     # Step 1: Navigate to the page
-    page_to_scrape.get("https://kaijunomanga.online/")
+    page_to_scrape.get("https://www.sakamotodayschapters.com/")
 
     responseT = page_to_scrape.find_element(By.XPATH, '//*[@id="ceo_latest_comics_widget-3"]/ul')
 
@@ -26,9 +26,9 @@ try:
     width = responseT.size['width']
 
     
-    desired_width = max(width, 1200)  
+    desired_width = max(width, 600)  
 
-    desired_height = min(height, 1000)
+    desired_height = min(height, 500)
 
     page_to_scrape.set_window_size(desired_width, desired_height)  
 
