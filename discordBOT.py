@@ -1,14 +1,14 @@
 import os
 from dhooks import Webhook, Embed, File
 
-image2_path = 'kaiju.png'
+image2_path = 'sakamoto.png'
 
 WEBHOOK_URL = [os.getenv('WEBHOOK_MAIN')]
 for url in WEBHOOK_URL:
     hook = Webhook(url)
 
     embed = Embed(
-        description="**[Kaiju no.8 link - click here -](https://kaijunomanga.online/)**",
+        description="**[Sakamoto days link - click here -](https://www.sakamotodayschapters.com/)**",
         color=0x3498DB
     )
     
