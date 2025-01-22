@@ -1,138 +1,197 @@
-Kaiju No 8 Chapter 120
-Kaiju No 8 Chapter 119
-Kaiju No 8 Chapter 118
-Kaiju No 8 Chapter 117
-Kaiju No 8 Chapter 116
-Kaiju No 8 Chapter 115
-Kaiju No 8 Chapter 114
-Kaiju No 8 Chapter 113
-Kaiju No 8 Chapter 112
-Kaiju No 8 Chapter 111
-Kaiju No 8 Chapter 110
-Kaiju No 8 Chapter 109
-Kaiju No 8 Chapter 108
-Kaiju No 8 Chapter 107
-Kaiju No 8 Chapter 106
-Kaiju No 8 Chapter 105
-Kaiju No 8 Chapter 104
-Kaiju No 8 Chapter 103
-Kaiju No 8 Chapter 102
-Kaiju No 8 Chapter 101
-Kaiju No 8 Chapter 100
-Kaiju No 8 Chapter 99
-Kaiju No 8 Chapter 98
-Kaiju No 8 Chapter 97.5
-Kaiju No 8 Chapter 97
-Kaiju No 8 Chapter 96
-Kaiju No 8 Chapter 95
-Kaiju No 8 Chapter 94
-Kaiju No 8 Chapter 93
-Kaiju No 8 Chapter 92
-Kaiju No 8 Chapter 91
-Kaiju No 8 Chapter 90
-Kaiju No 8 Chapter 89
-Kaiju No 8 Chapter 88
-Kaiju No 8 Chapter 87
-Kaiju No 8 Chapter 86
-Kaiju No 8 Chapter 85.5
-Kaiju No 8 Chapter 85
-Kaiju No 8 Chapter 84
-Kaiju No 8 Chapter 83
-Kaiju No 8 Chapter 82
-Kaiju No 8 Chapter 81
-Kaiju No 8 Chapter 80
-Kaiju No 8 Chapter 79
-Kaiju No 8 Chapter 78
-Kaiju No 8 Chapter 77
-Kaiju No 8 Chapter 76.5
-Kaiju No 8 Chapter 76
-Kaiju No 8 Chapter 75
-Kaiju No 8 Chapter 74
-Kaiju No 8 Chapter 73.5
-Kaiju No 8 Chapter 73
-Kaiju No 8 Chapter 72
-Kaiju No 8 Chapter 71
-Kaiju No 8 Chapter 70
-Kaiju No 8 Chapter 69
-Kaiju No 8 Chapter 68
-Kaiju No 8 Chapter 67
-Kaiju No 8 Chapter 66
-Kaiju No 8 Chapter 65
-Kaiju No 8 Chapter 64
-Kaiju No 8 Chapter 63
-Kaiju No 8 Chapter 62
-Kaiju No 8 Chapter 61
-Kaiju No 8 Chapter 60
-Kaiju No 8 Chapter 59
-Kaiju No 8 Chapter 58
-Kaiju No 8 Chapter 57
-Kaiju No 8 Chapter 56
-Kaiju No 8 Chapter 55
-Kaiju No 8 Chapter 54
-Kaiju No 8 Chapter 53
-Kaiju No 8 Chapter 52
-Kaiju No 8 Chapter 51
-Kaiju No 8 Chapter 50
-Kaiju No 8 Chapter 49
-Kaiju No 8 Chapter 48
-Kaiju No 8 Chapter 47
-Kaiju No 8 Chapter 46
-Kaiju No 8 Chapter 45
-Kaiju No 8 Chapter 44
-Kaiju No 8 Chapter 43.5
-Kaiju No 8 Chapter 43
-Kaiju No 8 Chapter 42
-Kaiju No 8 Chapter 41
-Kaiju No 8 Chapter 40
-Kaiju No 8 Chapter 39
-Kaiju No 8 Chapter 38
-Kaiju No 8 Chapter 37
-Kaiju No 8 Chapter 36.5
-Kaiju No 8 Chapter 36
-Kaiju No 8 Chapter 35
-Kaiju No 8 Chapter 34
-Kaiju No 8 Chapter 33
-Kaiju No 8 Chapter 32
-Kaiju No 8 Chapter 31
-Kaiju No 8 Chapter 30.5
-Kaiju No 8 Chapter 30
-Kaiju No 8 Chapter 29
-Kaiju No 8 Chapter 28.5
-Kaiju No 8 Chapter 28
-Kaiju No 8 Chapter 27
-Kaiju No 8 Chapter 26
-Kaiju No 8 Chapter 25.5
-Kaiju No 8 Chapter 25
-Kaiju No 8 Chapter 24
-Kaiju No 8 Chapter 23
-Kaiju No 8 Chapter 22.5
-Kaiju No 8 Chapter 22
-Kaiju No 8 Chapter 21.5
-Kaiju No 8 Chapter 21
-Kaiju No 8 Chapter 20.5
-Kaiju No 8 Chapter 20
-Kaiju No 8 Chapter 19
-Kaiju No 8 Chapter 18
-Kaiju No 8 Chapter 17.5
-Kaiju No 8 Chapter 17
-Kaiju No 8 Chapter 16
-Kaiju No 8 Chapter 15
-Kaiju No 8 Chapter 14.5
-Kaiju No 8 Chapter 14
-Kaiju No 8 Chapter 13
-Kaiju No 8 Chapter 12
-Kaiju No 8 Chapter 11.5
-Kaiju No 8 Chapter 11
-Kaiju No 8 Chapter 10
-Kaiju No 8 Chapter 9
-Kaiju No 8 Chapter 8
-Kaiju No 8 Chapter 8.5
-Kaiju No 8 Chapter 7
-Kaiju No 8 Chapter 6.2
-Kaiju No 8 Chapter 6.1
-Kaiju No 8 Chapter 6
-Kaiju No 8 Chapter 5
-Kaiju No 8 Chapter 4
-Kaiju No 8 Chapter 3
-Kaiju No 8 Chapter 2
-Kaiju No 8 Chapter 1
+Sakamoto Days, Chapter 197
+Sakamoto Days, Chapter 196
+Sakamoto Days, Chapter 195
+Sakamoto Days, Chapter 194
+Sakamoto Days, Chapter 193
+Sakamoto Days, Chapter 192
+Sakamoto Days, Chapter 191
+Sakamoto Days, Chapter 190
+Sakamoto Days, Chapter 189
+Sakamoto Days, Chapter 188
+Sakamoto Days, Chapter 187
+Sakamoto Days, Chapter 186
+Sakamoto Days, Chapter 185
+Sakamoto Days, Chapter 184
+Sakamoto Days, Chapter 183
+Sakamoto Days, Chapter 182
+Sakamoto Days, Chapter 181
+Sakamoto Days, Chapter 180
+Sakamoto Days, Chapter 179
+Sakamoto Days, Chapter 178
+Sakamoto Days, Chapter 177
+Sakamoto Days, Chapter 176
+Sakamoto Days, Chapter 175
+Sakamoto Days, Chapter 174
+Sakamoto Days, Chapter 173
+Sakamoto Days, Chapter 172
+Sakamoto Days, Chapter 171
+Sakamoto Days, Chapter 170
+Sakamoto Days, Chapter 169
+Sakamoto Days, Chapter 168
+Sakamoto Days, Chapter 167
+Sakamoto Days, Chapter 166
+Sakamoto Days, Chapter 165
+Sakamoto Days, Chapter 164
+Sakamoto Days, Chapter 163
+Sakamoto Days, Chapter 162
+Sakamoto Days, Chapter 161
+Sakamoto Days, Chapter 160
+Sakamoto Days, Chapter 159
+Sakamoto Days, Chapter 158
+Sakamoto Days, Chapter 157
+Sakamoto Days, Chapter 156
+Sakamoto Days, Chapter 155
+Sakamoto Days, Chapter 154
+Sakamoto Days, Chapter 153
+Sakamoto Days, Chapter 152
+Sakamoto Days, Chapter 151
+Sakamoto Days, Chapter 150
+Sakamoto Days, Chapter 149
+Sakamoto Days, Chapter 148
+Sakamoto Days, Chapter 147
+Sakamoto Days, Chapter 146
+Sakamoto Days, Chapter 145
+Sakamoto Days, Chapter 144
+Sakamoto Days, Chapter 143
+Sakamoto Days, Chapter 142
+Sakamoto Days, Chapter 141
+Sakamoto Days, Chapter 140
+Sakamoto Days, Chapter 139
+Sakamoto Days, Chapter 138
+Sakamoto Days, Chapter 137
+Sakamoto Days, Chapter 136
+Sakamoto Days, Chapter 135
+Sakamoto Days, Chapter 134
+Sakamoto Days, Chapter 133
+Sakamoto Days, Chapter 132
+Sakamoto Days, Chapter 131
+Sakamoto Days, Chapter 130
+Sakamoto Days, Chapter 129
+Sakamoto Days, Chapter 128
+Sakamoto Days, Chapter 127
+Sakamoto Days, Chapter 126
+Sakamoto Days, Chapter 125
+Sakamoto Days, Chapter 124
+Sakamoto Days, Chapter 123
+Sakamoto Days, Chapter 122
+Sakamoto Days, Chapter 121
+Sakamoto Days, Chapter 120
+Sakamoto Days, Chapter 119
+Sakamoto Days, Chapter 118
+Sakamoto Days, Chapter 117
+Sakamoto Days, Chapter 116
+Sakamoto Days, Chapter 115
+Sakamoto Days, Chapter 114
+Sakamoto Days, Chapter 113
+Sakamoto Days, Chapter 112
+Sakamoto Days, Chapter 111
+Sakamoto Days, Chapter 110
+Sakamoto Days, Chapter 109
+Sakamoto Days, Chapter 108
+Sakamoto Days, Chapter 107
+Sakamoto Days, Chapter 106
+Sakamoto Days, Chapter 105
+Sakamoto Days, Chapter 104
+Sakamoto Days, Chapter 103
+Sakamoto Days, Chapter 102
+Sakamoto Days, Chapter 101
+Sakamoto Days, Chapter 100
+Sakamoto Days, Chapter 99
+Sakamoto Days, Chapter 98
+Sakamoto Days, Chapter 97
+Sakamoto Days, Chapter 96
+Sakamoto Days, Chapter 95
+Sakamoto Days, Chapter 94
+Sakamoto Days, Chapter 93
+Sakamoto Days, Chapter 92
+Sakamoto Days, Chapter 91
+Sakamoto Days, Chapter 90
+Sakamoto Days, Chapter 89
+Sakamoto Days, Chapter 88
+Sakamoto Days, Chapter 87
+Sakamoto Days, Chapter 86
+Sakamoto Days, Chapter 85
+Sakamoto Days, Chapter 84
+Sakamoto Days, Chapter 83
+Sakamoto Days, Chapter 82
+Sakamoto Days, Chapter 81
+Sakamoto Days, Chapter 80
+Sakamoto Days, Chapter 79
+Sakamoto Days, Chapter 78
+Sakamoto Days, Chapter 77
+Sakamoto Days, Chapter 76
+Sakamoto Days, Chapter 75
+Sakamoto Days, Chapter 74
+Sakamoto Days, Chapter 73
+Sakamoto Days, Chapter 72
+Sakamoto Days, Chapter 71
+Sakamoto Days, Chapter 70
+Sakamoto Days, Chapter 69
+Sakamoto Days, Chapter 68
+Sakamoto Days, Chapter 67
+Sakamoto Days, Chapter 66
+Sakamoto Days, Chapter 65
+Sakamoto Days, Chapter 64
+Sakamoto Days, Chapter 63
+Sakamoto Days, Chapter 62
+Sakamoto Days, Chapter 61
+Sakamoto Days, Chapter 60
+Sakamoto Days, Chapter 59
+Sakamoto Days, Chapter 58
+Sakamoto Days, Chapter 57
+Sakamoto Days, Chapter 56
+Sakamoto Days, Chapter 55
+Sakamoto Days, Chapter 54
+Sakamoto Days, Chapter 53
+Sakamoto Days, Chapter 52
+Sakamoto Days, Chapter 51
+Sakamoto Days, Chapter 50
+Sakamoto Days, Chapter 49
+Sakamoto Days, Chapter 48
+Sakamoto Days, Chapter 47
+Sakamoto Days, Chapter 46
+Sakamoto Days, Chapter 45
+Sakamoto Days, Chapter 44
+Sakamoto Days, Chapter 43
+Sakamoto Days, Chapter 42
+Sakamoto Days, Chapter 41
+Sakamoto Days, Chapter 40
+Sakamoto Days, Chapter 39
+Sakamoto Days, Chapter 38
+Sakamoto Days, Chapter 37
+Sakamoto Days, Chapter 36
+Sakamoto Days, Chapter 35
+Sakamoto Days, Chapter 34
+Sakamoto Days, Chapter 33
+Sakamoto Days, Chapter 32
+Sakamoto Days, Chapter 31
+Sakamoto Days, Chapter 30
+Sakamoto Days, Chapter 29
+Sakamoto Days, Chapter 28
+Sakamoto Days, Chapter 27
+Sakamoto Days, Chapter 26
+Sakamoto Days, Chapter 25
+Sakamoto Days, Chapter 24
+Sakamoto Days, Chapter 23
+Sakamoto Days, Chapter 22
+Sakamoto Days, Chapter 21
+Sakamoto Days, Chapter 20
+Sakamoto Days, Chapter 19
+Sakamoto Days, Chapter 18
+Sakamoto Days, Chapter 17
+Sakamoto Days, Chapter 16
+Sakamoto Days, Chapter 15
+Sakamoto Days, Chapter 14
+Sakamoto Days, Chapter 13
+Sakamoto Days, Chapter 12
+Sakamoto Days, Chapter 11
+Sakamoto Days, Chapter 10
+Sakamoto Days, Chapter 9
+Sakamoto Days, Chapter 8
+Sakamoto Days, Chapter 7
+Sakamoto Days, Chapter 6
+Sakamoto Days, Chapter 5
+Sakamoto Days, Chapter 4
+Sakamoto Days, Chapter 3
+Sakamoto Days, Chapter 2
+Sakamoto Days, Chapter 1
