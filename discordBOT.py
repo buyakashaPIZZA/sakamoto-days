@@ -9,7 +9,7 @@ for url in WEBHOOK_URL:
 
     embed = Embed(
         description="**[Sakamoto days link - click here -](https://www.sakamotodayschapters.com/)**",
-        color=0x3498DB
+        color=0xF0B232
     )
     
     embed.set_image(url="attachment://sakamoto.png")
