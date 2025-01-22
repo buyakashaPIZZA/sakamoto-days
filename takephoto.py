@@ -35,7 +35,7 @@ try:
    
     page_to_scrape.execute_script("arguments[0].scrollIntoView(true);", responseT)
 
-    responseT.screenshot('kaiju.png')
+    responseT.screenshot('sakamoto.png')
 
 finally:
     # Close the browser
