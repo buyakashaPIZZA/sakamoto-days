@@ -12,6 +12,6 @@ for url in WEBHOOK_URL:
         color=0x3498DB
     )
     
-    embed.set_image(url="attachment://kaiju.png")
-    file = File(image2_path, name="kaiju.png")
-    hook.send("@everyone 📢 Kaiju", embed=embed, file=file)
+    embed.set_image(url="attachment://sakamoto.png")
+    file = File(image2_path, name="sakamoto.png")
+    hook.send("@everyone 📢 Sakamoto days", embed=embed, file=file)
